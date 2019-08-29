@@ -723,7 +723,7 @@ VisualEffectResource:
         - m_ExpressionIndex: 7
           m_Value: 2
         - m_ExpressionIndex: 8
-          m_Value: 25310
+          m_Value: 26774
         - m_ExpressionIndex: 10
           m_Value: 0
         - m_ExpressionIndex: 11
@@ -3187,7 +3187,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 25310
+      m_SerializableObject: 26774
     m_Space: 2147483647
   m_Property:
     name: max

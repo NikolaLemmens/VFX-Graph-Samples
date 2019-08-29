@@ -217,7 +217,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   clearColorMode: 0
-  backgroundColorHDR: {r: 0.025, g: 0.07, b: 0.19, a: 0}
+  backgroundColorHDR: {r: 0.2830189, g: 0.025364893, b: 0.025364893, a: 0}
   clearDepth: 1
   volumeLayerMask:
     serializedVersion: 2
@@ -529,6 +529,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2731523508309678875, guid: c5043c66fe07843ccb14899b3f7a96b6,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2731523508309678875, guid: c5043c66fe07843ccb14899b3f7a96b6,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[0].m_Value
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2731523508309678875, guid: c5043c66fe07843ccb14899b3f7a96b6,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[0].m_Name
+      value: frequency
+      objectReference: {fileID: 0}
+    - target: {fileID: 2731523508309678875, guid: c5043c66fe07843ccb14899b3f7a96b6,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[0].m_Overridden
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2731523508309678874, guid: c5043c66fe07843ccb14899b3f7a96b6,
         type: 3}
